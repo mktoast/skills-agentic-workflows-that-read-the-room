@@ -12,7 +12,7 @@ engine:
   id: copilot
   copilot-sdk: true
 
-model: gpt-4.1
+model: gpt-5.6-sol
 
 tools:
   edit:
