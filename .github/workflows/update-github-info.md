@@ -12,7 +12,7 @@ engine:
   id: copilot
   copilot-sdk: true
 
-model: gpt-6-luna
+model: auto
 
 tools:
   edit:
